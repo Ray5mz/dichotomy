@@ -24,3 +24,6 @@ So concider installing **tinyexpr** when you try to run the code
 
 **HERE IS THE LINK**
 https://github.com/codeplea/tinyexpr
+
+## Note N=2
+*D'ont mind the french comments in the code*
